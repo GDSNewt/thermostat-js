@@ -1,0 +1,5 @@
+body, button, input, textarea, #sign_in, #sign_up {
+  font-family: Helvetica Neue;
+  font-size: 20px;
+  font-weight: 300;
+}
